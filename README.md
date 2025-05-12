@@ -4,6 +4,11 @@ A modular high-performance C++ backtesting engine featuring GBM + Jump tick simu
 
 ---
 
+🚧 **Work in Progress**
+This project is actively being developped. Contributions, feedback and ideas are welcome!
+
+---
+
 ## ✨ Features
 - **GBM + Jump Tick Simulation**
   Simulates realistic tick-level price movements using Geometric Brownian Motion with jumps.
