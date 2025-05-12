@@ -36,6 +36,3 @@ Each strategy runs on the same tick series with configurable parameters and init
 ### Build the image
 ```bash
 docker build -t backtest-engine .
-
-
-
