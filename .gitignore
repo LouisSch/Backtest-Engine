@@ -1,0 +1,30 @@
+# Build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code Config and output files
+.vscode/*
+*.csv
+
+# Compiled objects
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+
+# Binary executables
+*.exe
+*.out
+*.app
+*.so
+*.dll
+*.dylib
+
+# Docker artifacts
+*.container
+*.tar
